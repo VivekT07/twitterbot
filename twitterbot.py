@@ -84,7 +84,7 @@ def mainFunction():
     
     getE6()
     favorite = getE6()
-#hjkhjkhjkhjk
+
     getE7()
     follow = getE7()
 
