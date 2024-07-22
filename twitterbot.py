@@ -26,7 +26,6 @@ E1 = Entry(root, bd =5)
 
 label2 = Label( root, text="Number of Tweets")
 E2 = Entry(root, bd =5)
-#hjkhjkhjkhjk
 label3 = Label( root, text="Response")
 E3 = Entry(root, bd =5)
 
